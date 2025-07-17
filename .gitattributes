@@ -1,0 +1,2 @@
+ml/models/power_demand_rf_model.pkl filter=lfs diff=lfs merge=lfs -text
+data/processed/features_engineered.csv filter=lfs diff=lfs merge=lfs -text

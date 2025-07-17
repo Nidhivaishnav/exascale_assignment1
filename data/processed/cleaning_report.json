@@ -1,0 +1,15 @@
+{
+  "Original_Shape": [
+    52416,
+    7
+  ],
+  "Cleaned_Shape": [
+    52416,
+    7
+  ],
+  "Missing_Values_Filled": 0,
+  "Errors_Corrected": 0,
+  "Outliers_Treated": 15682,
+  "Data_Quality_Score": 100.0,
+  "Processing_Date": "2025-07-16 17:59:56"
+}
