@@ -18,3 +18,4 @@ plotly==5.17.0
 scipy==1.11.2
 requests==2.31.0 
 setuptools>=65.5.0
+pip>=23.0
